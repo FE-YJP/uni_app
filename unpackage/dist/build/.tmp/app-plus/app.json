@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/search",
+    "pages/index/list"
+  ],
+  "window": {
+    "navigationStyle": "custom"
+  },
+  "nvueCompiler": "weex",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "app01",
+  "compilerVersion": "2.3.2",
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

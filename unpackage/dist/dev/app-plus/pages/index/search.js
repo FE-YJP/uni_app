@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"content_box{ -webkit-box-sizing: border-box; box-sizing: border-box; padding-top: ",[0,100],"; }\n",],undefined,{path:"./pages/index/search.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/search.wxml') } }));

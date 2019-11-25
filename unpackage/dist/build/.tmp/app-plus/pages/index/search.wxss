@@ -1,0 +1,7 @@
+
+.content_box{
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	padding-top: 100rpx;
+}
+
